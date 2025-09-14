@@ -2,7 +2,9 @@
 
 A stunning, interactive 3D cyberpunk-themed neural network background built with React Three Fiber.
 
-![Cyberpunk Neural Background](https://via.placeholder.com/800x400/000814/00ffff?text=Cyberpunk+Neural+Background)
+![Cyberpunk Neural Background](./screenshot.png)
+
+> **Note:** The image above is loaded from `screenshot.png` in the root directory. Replace this file with your own screenshot for a custom preview.
 
 ## Features
 
