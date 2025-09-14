@@ -17,7 +17,7 @@ A stunning, interactive 3D cyberpunk-themed neural network background built with
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cyberpunk-neural-background.git
+git clone https://github.com/ngari-qds/cyberpunk-react-3d-bg.git
 
 # Install dependencies
 npm install
